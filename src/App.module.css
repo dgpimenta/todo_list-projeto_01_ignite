@@ -1,10 +1,10 @@
 main {
-    margin-inline: 1.4rem;
-    /* border: 1px solid red; */
+    margin-inline: 1.4rem;    
+    border: 1px solid red;
 }
 
 .taskForm {
-    margin-top: -1.7rem;
+    margin-top: -1.7rem;    
 
     display: flex;
     justify-content: center;

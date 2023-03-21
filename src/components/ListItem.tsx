@@ -28,7 +28,7 @@ export function ListItem({ task, onDeleteTask, onCheckTask }: TaskProps) {
 
         if (inputChecked) {
             setCheckedTasks(true)
-        } else {
+        } else {            
             setCheckedTasks(false)
         }
 
